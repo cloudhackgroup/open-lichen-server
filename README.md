@@ -1,5 +1,3 @@
-#IMPORTANTE! El mantenimiento del proyecto se movio a : `https://github.com/cloudhackgroup`
-
 # Open Lichen Server
 Los liquenes son un buen bioindicador para estimar la calidad del aire
 
