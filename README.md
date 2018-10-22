@@ -1,14 +1,14 @@
 # Open Lichen Server
 Los liquenes son un buen bioindicador para estimar la calidad del aire
 
-##Global (Alfa) version
+## Global (Alfa) version
 Se encuentra la version actual corriendo en un cloudhost en Heroku
 
 `https://openlichen.herokuapp.com`
 
-##Standalone
+## Standalone
 
-###Warm up
+### Warm up
 Es un servidor API-REST basado en `Spring Boot 2.0.6`, y como motor de base
 de datos `MongoDB`, para poder correrlo en su entorno primero es necesario 
 indicarle la ubicacion de la base de datos
