@@ -38,7 +38,7 @@ El nuevo modelo propuesto refleja :
 
 Basicamente las llamadas ahora se realizan a `/{function}v2` y el modelo
 ahora cambio a :
-```json
+```
  {
     "reportId": String - random(),
     "lat": double,
