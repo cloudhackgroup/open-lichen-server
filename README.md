@@ -70,7 +70,7 @@ El modelo propuesto refleja :
 - POST  `/report` : esto guarda un nuevo reporte, el modelo del reporte viene
 json con el siguiente formato
 
-```json
+```
  {
     "reportId": String - random(),
     "lat": double,
@@ -99,7 +99,7 @@ json con el siguiente formato
   }
 ```
 Respuesta : Los indices actualizados de esas muestras
-```json
+```
 {
   iapf : int,
   iapq : int
